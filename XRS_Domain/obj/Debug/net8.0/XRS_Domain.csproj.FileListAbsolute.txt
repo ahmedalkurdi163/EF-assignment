@@ -1,0 +1,11 @@
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Domain\bin\Debug\net8.0\XRS_Domain.deps.json
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Domain\bin\Debug\net8.0\XRS_Domain.dll
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Domain\bin\Debug\net8.0\XRS_Domain.pdb
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Domain\obj\Debug\net8.0\XRS_Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Domain\obj\Debug\net8.0\XRS_Domain.AssemblyInfoInputs.cache
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Domain\obj\Debug\net8.0\XRS_Domain.AssemblyInfo.cs
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Domain\obj\Debug\net8.0\XRS_Domain.csproj.CoreCompileInputs.cache
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Domain\obj\Debug\net8.0\XRS_Domain.dll
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Domain\obj\Debug\net8.0\refint\XRS_Domain.dll
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Domain\obj\Debug\net8.0\XRS_Domain.pdb
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Domain\obj\Debug\net8.0\ref\XRS_Domain.dll

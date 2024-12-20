@@ -1,0 +1,17 @@
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\bin\Debug\net8.0\XRS_Data.deps.json
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\bin\Debug\net8.0\XRS_Data.runtimeconfig.json
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\bin\Debug\net8.0\XRS_Data.dll
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\bin\Debug\net8.0\XRS_Data.pdb
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\bin\Debug\net8.0\XRS_Domain.dll
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\bin\Debug\net8.0\XRS_Domain.pdb
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\obj\Debug\net8.0\XRS_Data.csproj.AssemblyReference.cache
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\obj\Debug\net8.0\XRS_Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\obj\Debug\net8.0\XRS_Data.AssemblyInfoInputs.cache
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\obj\Debug\net8.0\XRS_Data.AssemblyInfo.cs
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\obj\Debug\net8.0\XRS_Data.csproj.CoreCompileInputs.cache
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\obj\Debug\net8.0\XRS_Data.csproj.Up2Date
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\obj\Debug\net8.0\XRS_Data.dll
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\obj\Debug\net8.0\refint\XRS_Data.dll
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\obj\Debug\net8.0\XRS_Data.pdb
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\obj\Debug\net8.0\XRS_Data.genruntimeconfig.cache
+D:\Files-1000-Programmers\Code\iusr-code\Ahmed_Alkurdi.XRS\XRS_Data\obj\Debug\net8.0\ref\XRS_Data.dll
