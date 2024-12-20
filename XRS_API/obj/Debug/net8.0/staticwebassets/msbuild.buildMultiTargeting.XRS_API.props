@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\XRS_API.props" />
+</Project>
